@@ -1,0 +1,2 @@
+# core-license
+CORE License
